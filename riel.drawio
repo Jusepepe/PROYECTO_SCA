@@ -10,6 +10,9 @@
         <mxCell id="r-b_Fm4VtTnuqkXkL0p2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="84" y="521" width="670" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r-b_Fm4VtTnuqkXkL0p2-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="76.5" height="93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
