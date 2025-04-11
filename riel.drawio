@@ -16,6 +16,9 @@
         <mxCell id="r-b_Fm4VtTnuqkXkL0p2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="r-b_Fm4VtTnuqkXkL0p2-20" target="r-b_Fm4VtTnuqkXkL0p2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r-b_Fm4VtTnuqkXkL0p2-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.iron_core;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="86" y="529.56" width="666" height="4" as="geometry" />
+        </mxCell>
         <mxCell id="r-b_Fm4VtTnuqkXkL0p2-20" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.tank_car,_tank_wagon;fillColor=light-dark(#FFFFFF, #7d8c9b);strokeWidth=1;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="155.5" y="460.56" width="127" height="80" as="geometry" />
         </mxCell>
@@ -26,9 +29,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="230" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="r-b_Fm4VtTnuqkXkL0p2-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.iron_core;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="86" y="529.56" width="666" height="4" as="geometry" />
         </mxCell>
         <mxCell id="r-b_Fm4VtTnuqkXkL0p2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="r-b_Fm4VtTnuqkXkL0p2-21" target="r-b_Fm4VtTnuqkXkL0p2-22">
           <mxGeometry relative="1" as="geometry" />
